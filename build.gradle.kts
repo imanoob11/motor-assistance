@@ -8,6 +8,7 @@ buildscript {
     }
     dependencies {
         classpath("org.jlleitschuh.gradle:ktlint-gradle:11.0.0")
+        classpath("com.google.code.gson:gson:2.10.1")
     }
 }
 

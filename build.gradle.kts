@@ -1,2 +1,0 @@
-minecraft_version = 1.21.4
-yarn_mappings = 1.21.4+build.1
